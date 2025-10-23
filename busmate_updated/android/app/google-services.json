@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "64129881421",
+    "firebase_url": "https://busmate-54bb3-default-rtdb.firebaseio.com",
+    "project_id": "busmate-54bb3",
+    "storage_bucket": "busmate-54bb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64129881421:android:433431a841e5f07ccd9304",
+        "android_client_info": {
+          "package_name": "com.example.busmate_sender_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABR8uEH4xG1uOn31AlgvvhglpMd6rsFEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64129881421:android:bbb3f56ecedf679fcd9304",
+        "android_client_info": {
+          "package_name": "com.example.busmate_updated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABR8uEH4xG1uOn31AlgvvhglpMd6rsFEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64129881421:android:f79f8896b861a56dcd9304",
+        "android_client_info": {
+          "package_name": "com.mycompany.busmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABR8uEH4xG1uOn31AlgvvhglpMd6rsFEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
